@@ -31,21 +31,21 @@ export const members: Member[] = [
     id: "m1",
     fullName: "Đoàn Ngọc Khải",
     role: "Vai trò: Leader",
-    shortBio: "Mô tả ngắn (1–2 câu) về thành viên 1.",
+    shortBio: "Học vấn: Sinh viên năm nhất trường Đại học Khoa học Tự nhiên, ĐHQG TP.HCM",
     imageSrc: "/dnk.jpg"
   },
   {
     id: "m2",
     fullName: "Phan Minh Hoài",
     role: "Vai trò: Dev Web",
-    shortBio: "Năm sinh: 2007 \nCông việc: Internship AILab - VBI Academy \nHọc vấn: Sinh viên năm nhất trường Đại học Khoa học Tự nhiên, ĐHQG TP.HCM\nSở thích: debug code, học hỏi, đọc sách\nVai trò trong nhóm: Làm dev website của nhóm\nLiên hệ: Github:https://github.com/Mhoaii",
+    shortBio: "Năm sinh: 2007 \nCông việc: Internship AILab - VBI Academy \nHọc vấn: Sinh viên năm nhất trường Đại học Khoa học Tự nhiên, ĐHQG TP.HCM\nSở thích: debug code, học hỏi, đọc sách\nVai trò trong nhóm: Làm dev website của nhóm\nLiên hệ: LinkedIn: https://www.linkedin.com/in/minh-ho%C3%A0i-phan-9bb6b6387/\nGithub:https://github.com/Mhoaii",
     imageSrc: "/mhoai.jpg"
   },
   {
     id: "m3",
     fullName: "Nguyễn Xuân Hoàng",
     role: "Vai trò: Dev Game",
-    shortBio: "Gmail: xhoang.suy@gmail.com",
+    shortBio: "Liên hệ: - Gmail: xhoang.suy@gmail.com",
     imageSrc: "/xhoang.png"
   },
   {
@@ -82,46 +82,46 @@ export const games: Game[] = [
   {
     id: "g1",
     name: "Surveyor-36",
-    imageSrc: "/game-placeholder.svg",
+    imageSrc: "/Surveyor.png",
     description: "Surveyor-36 là một game ngắn dựa trên đề tài cosmic horror và du hành trong không gian, người chơi trong vai một phi hành gia điều khiển một tàu khảo sát không gian mẫu ",
     story: "Surveyor, phiên bản thứ 36, đi qua những hệ sao khác nhau để khảo sát, ghi chép và tìm ra hành tinh có dấu hiệu sống, trong khi phi thuyền sẽ dần hỏng hóc theo thời gian.\nLiệu bạn có thể hoàn thành nhiệm vụ để trở về?",
-    downloadUrl: "https://example.com/download/game-1",
-    demoVideoUrl: "https://drive.google.com/drive/folders/10N1j5f50Za3hcoA8xH4YtmHpua86ZzNr"
+    downloadUrl: "https://drive.google.com/file/d/1aHOcdd93B5Hq1cixpdps5UosPOMOiF3g/view",
+    demoVideoUrl: "https://youtu.be/araQ5df6y2o"
   },
   {
     id: "g2",
-    name: "Tên game 2",
-    imageSrc: "/game-placeholder.svg",
-    description: "Mô tả game 2 ...",
-    story: "Cốt truyện game 2 ...",
-    downloadUrl: "https://example.com/download/game-2",
-    demoVideoUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    name: " SPACE EXPLORER",
+    imageSrc: "/space.png",
+    description: "Khi bầu trời sao biến thành địa ngục đạn...",
+    story: "Chào mừng phi công đến với Space Explorer – tựa game bắn súng phong cách Bullet-hell (Mưa đạn) mang đậm chất Arcade cổ điển nhưng với những cơ chế chiến đấu hiện đại và tàn khốc.\nPress F11 for best experience.",
+    downloadUrl: "https://space-explorers-gules.vercel.app",
+    demoVideoUrl: "https://www.youtube.com/watch?v=5FledgxT8r8"
   },
   {
     id: "g3",
-    name: "Tên game 3",
-    imageSrc: "/game-placeholder.svg",
-    description: "Mô tả game 3 ...",
-    story: "Cốt truyện game 3 ...",
-    downloadUrl: "https://example.com/download/game-3",
+    name: "Tetris",
+    imageSrc: "/Tetris.png",
+    description: "Game xếp gạch kinh điển mọi thời đại.",
+    story: "Sống lại ký ức điện tử 4 nút huyền thoại. Thỏa sức xoay gạch, ghép hàng điêu luyện và đua top điểm số kịch tính cùng bạn bè. Chơi ngay hôm nay nào bạn ơi!",
+    downloadUrl: "https://youtu.be/araQ5df6y2o",
     demoVideoUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
   },
   {
     id: "g4",
-    name: "Tên game 4",
-    imageSrc: "/game-placeholder.svg",
-    description: "Mô tả game 4 ...",
-    story: "Cốt truyện game 4 ...",
-    downloadUrl: "https://example.com/download/game-4",
-    demoVideoUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    name: "HCMUS Enjoyers",
+    imageSrc: "/hcmus.png",
+    description: "Mô phỏng cuộc sống sinh viên HCMUS vào game",
+    story: "HCMUS enjoyers là một tựa game parody Sonic Classic vào những năm 1900, lấy bối cảnh là tại trường HCMUS, các tân sinh viên phải trải qua bao nhiêu gian khó để vượt qua môn Vi Tích Phân vô cùng gian khó.",
+    downloadUrl: "https://sinh-vien-hcmus-farm-hoc-hong.vercel.app/",
+    demoVideoUrl: "https://youtu.be/LGGS4Na6d6Q"
   },
   {
     id: "g5",
-    name: "Tên game 5",
-    imageSrc: "/game-placeholder.svg",
+    name: "EX-Redline Prime Protocol",
+    imageSrc: "/redline.png",
     description: "Mô tả game 5 ...",
     story: "Cốt truyện game 5 ...",
     downloadUrl: "https://example.com/download/game-5",
-    demoVideoUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    demoVideoUrl: "https://youtu.be/phIq8prtYQw"
   }
 ];
