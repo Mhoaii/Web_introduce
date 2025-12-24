@@ -73,7 +73,7 @@ export const members: Member[] = [
     id: "m7",
     fullName: "Nguyễn Thái Hòa",
     role: "Vai trò: Dev Game",
-    shortBio: "Mô tả ngắn (1–2 câu) về thành viên 7.",
+    shortBio: "Năm sinh: 2007.\nSở thích: Viết truyện, vẽ tranh, làm đề IELTS.\nMục tiêu: Trở thành một Game Developer standalone.\nVai trò trong nhóm: Phát triển game.\nGmail: Nth23022007@gmail.com.",
     imageSrc: "/thaihoa.png"
   }
 ];
@@ -81,12 +81,12 @@ export const members: Member[] = [
 export const games: Game[] = [
   {
     id: "g1",
-    name: "Tên game 1",
+    name: "Surveyor-36",
     imageSrc: "/game-placeholder.svg",
-    description: "Mô tả game 1 (thể loại, gameplay chính, điểm nổi bật...).",
-    story: "Cốt truyện game 1 (tóm tắt bối cảnh, mục tiêu, nhân vật...).",
+    description: "Surveyor-36 là một game ngắn dựa trên đề tài cosmic horror và du hành trong không gian, người chơi trong vai một phi hành gia điều khiển một tàu khảo sát không gian mẫu ",
+    story: "Surveyor, phiên bản thứ 36, đi qua những hệ sao khác nhau để khảo sát, ghi chép và tìm ra hành tinh có dấu hiệu sống, trong khi phi thuyền sẽ dần hỏng hóc theo thời gian.\nLiệu bạn có thể hoàn thành nhiệm vụ để trở về?",
     downloadUrl: "https://example.com/download/game-1",
-    demoVideoUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    demoVideoUrl: "https://drive.google.com/drive/folders/10N1j5f50Za3hcoA8xH4YtmHpua86ZzNr"
   },
   {
     id: "g2",
