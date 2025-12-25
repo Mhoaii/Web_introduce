@@ -21,9 +21,9 @@ export const groupInfo = {
   name: "(Trễ Deadline)^-1",
 
   // ✅ Label — bạn chỉ cần điền
-  foundingYear: "20XX",              // VD: "2024"
-  logoSrc: "/logo-placeholder.svg",  // Thay bằng logo của nhóm trong /public
-  slogan: "Điền slogan / mô tả ngắn của nhóm tại đây."
+  foundingYear: "2025",              // VD: "2024"
+  logoSrc: "/logo_nhom.jpg",  // Thay bằng logo của nhóm trong /public
+  slogan: "Chúng tôi là (Trễ Deadline)^-1, một nhóm sinh viên đam mê phát triển game và công nghệ web, luôn nỗ lực để tạo ra những sản phẩm sáng tạo và chất lượng cao."
 };
 
 export const members: Member[] = [
