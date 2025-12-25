@@ -42,14 +42,14 @@ export default function HomePage() {
             </div>
 
             <div className="mt-6 rounded-2xl border border-slate-200 bg-slate-50 p-4 text-sm text-slate-700">
-              <p className="font-semibold">✅ Bạn chỉ cần điền nội dung ở đâu?</p>
+              <p className="font-semibold">Đây là website của nhóm</p>
               <ul className="mt-2 list-disc pl-5 space-y-1">
                 <li>
-                  Chỉnh thông tin nhóm, thành viên, game trong{" "}
-                  <span className="font-mono">src/data/content.ts</span>
-                </li>
-                <li>
-                  Thay ảnh trong thư mục <span className="font-mono">public/</span> (logo, ảnh thành viên, ảnh game)
+                  Source web tại <a href="https://github.com/Mhoaii/Web_introduce"
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{ textDecoration: "underline", fontWeight: 600 }}
+                >Github</a>
                 </li>
               </ul>
             </div>
