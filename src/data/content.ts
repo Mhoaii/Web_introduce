@@ -45,7 +45,7 @@ export const members: Member[] = [
     id: "m3",
     fullName: "Nguyễn Xuân Hoàng",
     role: "Vai trò: Dev Game",
-    shortBio: "Liên hệ: - Gmail: xhoang.suy@gmail.com",
+    shortBio: "Năm sinh: 2007 \nVai trò trong nhóm: chịu trách nhiệm phần sản xuất game.\nLiên hệ: - Gmail: xhoang.suy@gmail.com",
     imageSrc: "/xhoang.png"
   },
   {
